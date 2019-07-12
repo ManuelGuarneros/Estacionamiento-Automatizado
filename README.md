@@ -16,17 +16,27 @@ Realizar un estacionamiento automatizado donde se pretende utilizar dispositivos
 ¿Porque están difícil conseguir un lugar para estacionar? 
 El incremento de adquisición de vehículos en México ha provocado  un problema de problemas vehiculares. 
 Solución:  En controlar el flujo vehicular  dentro de un estacionamiento y solucionara la pérdida de tiempo de los conductores.  
+
   ¿Qué es lo que se sucede si no encuentras un lugar para estacionar? 
 El conductor al no encontrar un espacio esto genera estrés, mal humor, y pueden llegar a producir un accidente porque solo piensan en buscar un sitio en donde estacionarse. 
 La solución:  Es realizar un estacionamiento automatizado que señale si hay un lugar disponible, donde el conductor no tendrá que perder su tiempo buscando un lugar para estacionarse. 
 
-## realización del proyecto 
+## Realización del proyecto 
 Será realizado por medio de un software que localice si un auto está o no presente en el espacio de estacionamiento. Para que sepan los conductores cuando hay lugares  se pondrá una pantalla donde se mostrara  si hay lugares solo o si está ocupado y no hay lugares para estacionarse. 
 
-## alcances 
+## Alcances 
 Hacer que el proyecto funcione  correctamente para demostrar a toda  la sociedad que un proyecto de este tipo es de gran ayuda para el problema de estacionarse, y también para que puedan observar que con este tipo de sistemas te podrás ahorrar mucho tiempo que pierdes buscando un lugar para estacionar su automóvil,  para que en un futuro puedan implementarlo. 
  
-## LIMITACIONES  
+## Limitaciones  
 - No saber programar el arduino. 
 - Contar con el dinero suficiente  para realizar el proyecto. 
 - Contar con el tiempo suficiente. 
+
+## Recursos humanos 
+2  Sensores Ópticos De Reflexión. 
+1 Computadora. 
+2 Servomotores  
+1 Arduino  
+Cables 
+1 Lámpara Verde  
+1 Lámpara  Rojo
