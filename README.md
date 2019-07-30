@@ -32,7 +32,7 @@ Hacer que el proyecto funcione  correctamente para demostrar a toda  la sociedad
 - Contar con el dinero suficiente  para realizar el proyecto. 
 - Contar con el tiempo suficiente. 
 
-## Recursos humanos 
+## Materiales que serán utilizados 
 2  Sensores Ópticos De Reflexión. 
 1 Computadora. 
 2 Servomotores  
