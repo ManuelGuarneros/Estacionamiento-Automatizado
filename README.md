@@ -1,4 +1,4 @@
-## Planteamiento del problema 
+
 ## Antecedentes 
 
 ¿Porque están difícil conseguir un lugar para estacionar? 
@@ -19,7 +19,7 @@ Crear una solución de estacionamientos que permita llevar el control del ingres
 •	Se pretende que los integrantes pongan a prueba sus capacidades y conocimientos para resolver un problema en un estacionamiento mediante la automatización. 
 
 
-## Introducción
+## Planteamiento del problema
 Se mostrará un prototipo de la implementación de un Sistema de estacionamiento automatizado con Arduino, se describirán los elementos usados para el desarrollo del proyecto y sus especificaciones técnicas más importantes.
 
 Así también lo que nos incentivó a desarrollarlo y la lógica que se siguió para la programación necesaria para la creación de un sketch funcional.
